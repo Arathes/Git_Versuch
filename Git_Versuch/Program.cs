@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GitDemo
+namespace Git_Versuch
 {
     class Program
     {
